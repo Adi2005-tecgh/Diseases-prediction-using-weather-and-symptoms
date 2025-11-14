@@ -104,5 +104,4 @@ This is not a medical diagnostic tool.
 It provides probabilistic predictions and should not replace professional medical advice.
 
 
-Aditi Nalawade 202301070179
 
