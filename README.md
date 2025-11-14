@@ -95,8 +95,10 @@ It provides probabilistic predictions and should not replace professional medica
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Group Members
 
-**Aditya Sonakanalli**  
-PRN: 202301070175
+Shravan Ghodke 202301070168
+Aditya Sonakanalli 202301070175
+Samiksha Hubale 202301070178
+Aditi Nalawade 202301070179
 
