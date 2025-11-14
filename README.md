@@ -1,4 +1,4 @@
-# 🧑‍⚕️ Weather-Based Disease Prediction
+  # 🧑‍⚕️ Weather-Based Disease Prediction
 
 This project predicts the most probable disease using weather conditions, symptoms, and personal details. The machine-learning model analyzes temperature, humidity, wind speed, age, gender, and selected symptoms to identify likely diseases and support early awareness and preventive action.
 
@@ -65,6 +65,7 @@ pip install -r requirements.txt
 ### 3️⃣ Run the Streamlit App
 streamlit run app.py
 
+
 Open in browser:
 👉 http://localhost:8501
 
@@ -88,17 +89,20 @@ Generated during training:
 
 ---
 
+## 👥 Group Members
+
+- **Shravan Ghodke** – PRN: *202301070168*  
+- **Aditya Sonakanalli** – PRN: *202301070175*  
+- **Samiksha Hubale** – PRN: *202301070178*  
+- **Aditi Nalawade** – PRN: *202301070179*  
+
+---
+
 ## ⚠️ Disclaimer
 
 This is not a medical diagnostic tool.  
 It provides probabilistic predictions and should not replace professional medical advice.
 
----
 
-## 👨‍💻 Group Members
-
-Shravan Ghodke 202301070168
-Aditya Sonakanalli 202301070175
-Samiksha Hubale 202301070178
 Aditi Nalawade 202301070179
 
