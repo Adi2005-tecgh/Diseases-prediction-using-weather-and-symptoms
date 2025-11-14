@@ -1,4 +1,3 @@
-
 🧑‍⚕️ Weather-Based Disease Prediction
 
 This project predicts the most probable disease using weather conditions, symptoms, and personal details. By analyzing temperature, humidity, wind speed, age, gender, and selected symptoms, the machine-learning model identifies likely diseases and supports early awareness, timely diagnosis, and preventive action.
@@ -38,28 +37,29 @@ Pandas / NumPy
 Matplotlib / Seaborn
 
 📁 Project Structure
+
 project/
 │── app.py
 │── models/
-│   ├── weather_disease_model.joblib
-│   ├── feature_names.joblib
-│   └── label_encoder.joblib
+│     ├── weather_disease_model.joblib
+│     ├── feature_names.joblib
+│     └── label_encoder.joblib
 │── outputs/
-│   ├── figures/
-│   └── tables/
+│     ├── figures/
+│     └── tables/
 │── requirements.txt
 │── README.md
 
 🚀 How to Run the Project
 1️⃣ Create & Activate Virtual Environment
 
-Windows:
+Windows
 
 python -m venv .venv
 .venv\Scripts\activate
 
 
-Mac/Linux:
+Mac / Linux
 
 python3 -m venv .venv
 source .venv/bin/activate
@@ -99,7 +99,7 @@ Model performance tables & confusion matrices
 ⚠️ Disclaimer
 
 This is not a medical diagnostic tool.
-It only provides probabilistic predictions and should not replace professional medical advice.
+It provides probabilistic predictions and should not replace professional medical advice.
 
 👨‍💻 Author
 
