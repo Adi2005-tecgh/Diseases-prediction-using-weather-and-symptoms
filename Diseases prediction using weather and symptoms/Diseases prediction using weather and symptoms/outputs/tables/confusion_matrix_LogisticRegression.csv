@@ -1,0 +1,12 @@
+,Arthritis,Common Cold,Dengue,Eczema,Heart Attack,Heat Stroke,Influenza,Malaria,Migraine,Sinusitis,Stroke
+Arthritis,62,0,0,0,0,0,0,0,0,0,0
+Common Cold,0,56,0,0,0,0,8,0,0,0,0
+Dengue,1,0,62,0,0,0,0,1,0,0,0
+Eczema,0,0,0,65,0,0,0,0,0,0,0
+Heart Attack,0,0,0,0,203,0,0,0,0,0,0
+Heat Stroke,0,0,0,0,1,62,0,0,5,0,0
+Influenza,0,5,0,0,0,0,125,1,1,0,0
+Malaria,0,0,0,0,0,0,0,66,0,0,0
+Migraine,0,0,0,0,2,0,1,0,185,0,0
+Sinusitis,0,0,0,0,0,0,1,0,0,61,0
+Stroke,0,0,0,0,0,0,0,0,1,0,65
